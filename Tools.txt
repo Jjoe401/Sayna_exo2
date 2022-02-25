@@ -1,0 +1,96 @@
+						Site exercices SAYNA
+
+-----------------------------------------------------------------------
+--NAv bar ( Home - Features - ICONE SAYNA - Get it Now)  -------
+-----------------------------------------------------------------------
+
+				Promote your New App ! (h1)
+
+					NEAW  SOFTWARE IN THE APP STORE (h3)
+
+						lorem (p)
+					Buy Now(green boutom)
+
+			Image Laptop
+
+Background / sombre/
+-----------------------------------------------------------------------
+	L	icones media social ( Twit -fb -g+ -pin -4 autres) 
+			SOCIAL MEDIA OPTION ( h3)
+
+Background / smokewhite/	
+----------------------------------------------------------------------- 
+			Check Our "New App".(h2)
+
+		lorem (p)
+
+1- colonne						2- colonne					3- colonne
+
+icon apple "Awesomeness"(h4)								"Awesomeness"(h4) icon Android
+
+lorem (p)											lorem (p)
+							pictures smartphone
+icon windows "Awesomeness"(h4)							"Awesomeness"(h4) icon telegram
+
+lorem (p)											lorem (p)
+
+icon cup "Awesomeness"(h4)								"Awesomeness"(h4) icon laureat
+
+lorem (p)											lorem (p)
+
+
+Background white
+-----------------------------------------------------------------------------------------------------
+				Icone rond /schema
+				lorem (h5)
+				-JOHN DO (h3)
+
+Background somnbre
+------------------------------------------------------------------------------------------------------
+	The best "Screenshots".
+
+	1-photo			2-photo			3-photo
+
+
+Background white smoke
+------------------------------------------------------------------------------------------------------
+
+	pictures laptop/2 	Litmus "Tested" (h4)
+					
+					lorem (p)
+
+					See it here (green bouton)
+
+
+	
+	100% "Responsive".(h4)		pictures smartphone  angles 30%
+				
+	lorem (p)
+
+	See it here (green bouton)
+
+Background none
+------------------------------------------------------------------------------------------------------
+1-colonne					2-colonne				3-colonne
+
+icone SAYNA					INFO(h4°)				CONTACT(h4)
+
+lorem (p)					Website				SAYNA SARL
+						
+						Featured				Business Center 2 ème étage à gauche
+						
+						Appstore				Tanjombato 101 Antananarivo NIF: 5 002
+
+						Unsubscribe				997 537 Stat : 85497 11 2018 010389
+											Madagascar
+
+Background whitesmokes
+------------------------------------------------------------------------------------------------------
+Footer
+
+Copyrigth Jjoe_Sayna 2022. All Rights Reserved				ico (twit -fb -go+ -pint)
+
+Background none 
+------------------------------------------------------------------------------------------------------- 
+
+
